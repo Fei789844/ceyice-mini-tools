@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#f7f5ef">
+  <meta name="description" content="两个人，各答八道小问题。把合拍、分歧和照顾彼此的方式，写成一份闺蜜相处说明书。">
+  <title>闺蜜相处说明书 · 测测你的理想好友</title>
+  <link rel="icon" href="assets/icon.jpg">
+  <link rel="stylesheet" href="style.css">
+  <script src="core.js" defer></script>
+  <script src="platform.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <div class="shell">
+    <header class="topbar"><a href="#" id="brand" aria-label="回到首页"><span class="brandmark">友</span>朋友观察手册</a><span class="edition">双人篇</span></header>
+    <main id="app" tabindex="-1"></main>
+    <footer class="sitefoot">多懂彼此一点，下次更好相处。</footer>
+  </div>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <dialog id="export-dialog" aria-labelledby="export-title">
+    <div class="dialoghead"><h2 id="export-title">留一份，慢慢相处。</h2><button class="close" id="close-export" aria-label="关闭图片">×</button></div>
+    <p class="muted" id="export-help">手机长按图片保存；电脑可点击下方下载。</p>
+    <img id="export-image" alt="两个人的闺蜜相处说明书长图">
+    <a class="button primary" id="download-image" download="我们的闺蜜相处说明书.png">下载说明书</a>
+    <button class="button primary" id="native-save" hidden>保存到相册</button>
+  </dialog>
+</body>
+</html>

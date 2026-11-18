@@ -1,0 +1,30 @@
+[
+  {
+    "project": "little-gods",
+    "name": "小本神仙办事处",
+    "status": "已发布",
+    "app_id": "6af9d192a712ac0015685fdf",
+    "zip_sha256": "b46f432d7580c415befb7da2dc321b7d804b93439cead3de2e00270300b4f3bc"
+  },
+  {
+    "project": "friendship-duo",
+    "name": "理想好友·双人版",
+    "status": "本地完成，未上传小红书",
+    "app_id": null,
+    "zip_sha256": "3faac08494fd0da6533a1774de510787c342f20dfa0d6ad28b2fbd04fe590f73"
+  },
+  {
+    "project": "weekend-recharge",
+    "name": "周末回血方式",
+    "status": "已发布",
+    "app_id": "6afbf5f2d6d8fc01162533d5",
+    "zip_sha256": "ccdefc80eca448bde746a14403083990d566a4d314962125f0d5ae5639d18d15"
+  },
+  {
+    "project": "winter-ritual",
+    "name": "你的冬日小仪式",
+    "status": "已发布；介绍笔记提交时审核中",
+    "app_id": "6afd2470261c1900157050b5",
+    "zip_sha256": "7bdc2d442952b619c13cbb35caedf6e31a42698d8ed11bad785009386e07a03f"
+  }
+]
