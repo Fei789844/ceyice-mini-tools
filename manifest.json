@@ -30,8 +30,8 @@
   {
     "project": "first-step",
     "name": "开工第一步",
-    "status": "网页已准备，小红书未提交",
-    "app_id": null,
+    "status": "小红书审核中，介绍笔记未发布",
+    "app_id": "6afe8bf1fe538b001562b355",
     "zip_sha256": "ddd42fb3643fb240deedc3406090e9fca7c6834c39bed340c7ed2740565bc896"
   }
 ]
