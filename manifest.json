@@ -26,5 +26,12 @@
     "status": "已发布；介绍笔记提交时审核中",
     "app_id": "6afd2470261c1900157050b5",
     "zip_sha256": "7bdc2d442952b619c13cbb35caedf6e31a42698d8ed11bad785009386e07a03f"
+  },
+  {
+    "project": "first-step",
+    "name": "开工第一步",
+    "status": "网页已准备，小红书未提交",
+    "app_id": null,
+    "zip_sha256": "ddd42fb3643fb240deedc3406090e9fca7c6834c39bed340c7ed2740565bc896"
   }
 ]
