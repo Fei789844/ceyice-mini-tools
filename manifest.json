@@ -30,15 +30,22 @@
   {
     "project": "first-step",
     "name": "开工第一步",
-    "status": "小红书审核中，介绍笔记未发布",
+    "status": "工具已发布，介绍笔记已提交",
     "app_id": "6afe8bf1fe538b001562b355",
     "zip_sha256": "ddd42fb3643fb240deedc3406090e9fca7c6834c39bed340c7ed2740565bc896"
   },
   {
     "project": "evening-switch",
     "name": "下班切换键",
-    "status": "未提交审核，介绍笔记未发布",
-    "app_id": null,
+    "status": "工具已发布，介绍笔记已提交",
+    "app_id": "6b028cd888c18f00156db39f",
     "zip_sha256": "abae8241e16bbc51e201f3e2cba5cfc18d6c3f257a0826c3f4d6bddfb3a6ae83"
+  },
+  {
+    "project": "bookshelf-pick",
+    "name": "书架盲选",
+    "status": "尚未送审",
+    "app_id": null,
+    "zip_sha256": "c68ba3e70c02dd0f892879446910c32df761d416231e44c4d500e259389a1c45"
   }
 ]
