@@ -4,4 +4,4 @@
 
 [打开体验](https://fei789844.github.io/tools/bookshelf-pick/)
 
-打开 dist/index.html 即可运行。release/tool.zip 是小红书离线包，presentation 保存图标和封面。官方 1.11.1 静态审计通过，5 文件、零警告。小红书尚未送审，无 AppID。创作中心已部署，模拟器完成并列、改答与重测。Android、iOS 真机待验。
+打开 dist/index.html 即可运行。release/tool.zip 是小红书离线包，presentation 保存图标和封面。官方 1.11.1 静态审计通过，5 文件、零警告。小红书已送审，AppID 为 6b03da7688c18f00156dc142，工具管理页显示审核中。创作中心已部署，模拟器完成并列、改答与重测。Android、iOS 真机待验。
