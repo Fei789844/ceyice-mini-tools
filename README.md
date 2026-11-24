@@ -8,7 +8,8 @@
 | [理想好友·双人版](projects/friendship-duo) | 两人作答、答题相似度、相处说明书 | 本地完成，未上传 |
 | [周末回血方式](projects/weekend-recharge) | 六题找到自己的休息安排 | 已发布 |
 | [开工第一步](projects/first-step) | 六题找个容易开始的小动作 | 已发布 |
-| [书架盲选](projects/bookshelf-pick) | 六题挑一个阅读方向 | 审核中 |
+| [散步取景卡](projects/photo-walk) | 六题领一张街头拍摄任务卡 | 已部署，未送审 |
+| [书架盲选](projects/bookshelf-pick) | 六题挑一个阅读方向 | 已发布 |
 | [下班切换键](projects/evening-switch) | 六题挑一个下班过渡动作 | 已发布 |
 | [你的冬日小仪式](projects/winter-ritual) | 冬日暖心点子与轻量动效 | 工具已发布，介绍笔记提交时审核中 |
 

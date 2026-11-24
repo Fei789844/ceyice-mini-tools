@@ -44,8 +44,15 @@
   {
     "project": "bookshelf-pick",
     "name": "书架盲选",
-    "status": "审核中",
+    "status": "已发布",
     "app_id": "6b03da7688c18f00156dc142",
     "zip_sha256": "c68ba3e70c02dd0f892879446910c32df761d416231e44c4d500e259389a1c45"
+  },
+  {
+    "project": "photo-walk",
+    "name": "散步取景卡",
+    "status": "已部署，未送审",
+    "app_id": null,
+    "zip_sha256": "032bb66cd98076d922d5e46b0cd6234a8170b7d3901d9d6ab70234adc0334b45"
   }
 ]
