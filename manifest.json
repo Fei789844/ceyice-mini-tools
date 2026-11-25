@@ -54,5 +54,12 @@
     "status": "已部署，未送审",
     "app_id": null,
     "zip_sha256": "032bb66cd98076d922d5e46b0cd6234a8170b7d3901d9d6ab70234adc0334b45"
+  },
+  {
+    "project": "soup-picker",
+    "name": "今晚这碗汤",
+    "status": "未上传，待登录创作中心",
+    "app_id": null,
+    "zip_sha256": "713baaaa0eb06c769a355b6c65c3566d1bfd933c24de9a57c102626fb8b3ae37"
   }
 ]
