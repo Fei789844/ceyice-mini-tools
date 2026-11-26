@@ -61,5 +61,12 @@
     "status": "未上传，待登录创作中心",
     "app_id": null,
     "zip_sha256": "713baaaa0eb06c769a355b6c65c3566d1bfd933c24de9a57c102626fb8b3ae37"
+  },
+  {
+    "project": "weekend-bag",
+    "name": "周末打包单",
+    "status": "网页版；2026-11-26 未提交小红书",
+    "app_id": null,
+    "zip_sha256": "6d1d80a3df9c22af299f8cbc28418ca2cab1b0b675228a5fac9641342e724e09"
   }
 ]
