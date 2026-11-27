@@ -8,6 +8,7 @@
 | [理想好友·双人版](projects/friendship-duo) | 两人作答、答题相似度、相处说明书 | 本地完成，未上传 |
 | [周末回血方式](projects/weekend-recharge) | 六题找到自己的休息安排 | 已发布 |
 | [开工第一步](projects/first-step) | 六题找个容易开始的小动作 | 已发布 |
+| [今天的三色卡](projects/three-colors) | 三题搭配底色、字色和点缀色 | 仅网页版 |
 | [周末打包单](projects/weekend-bag) | 三题生成可勾选的出行清单 | 仅网页版 |
 | [今晚这碗汤](projects/soup-picker) | 三步选一碗汤 | 待登录送审 |
 | [散步取景卡](projects/photo-walk) | 六题领一张街头拍摄任务卡 | 已部署，未送审 |

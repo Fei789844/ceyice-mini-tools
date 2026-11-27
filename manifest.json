@@ -68,5 +68,12 @@
     "status": "网页版；2026-11-26 未提交小红书",
     "app_id": null,
     "zip_sha256": "6d1d80a3df9c22af299f8cbc28418ca2cab1b0b675228a5fac9641342e724e09"
+  },
+  {
+    "project": "three-colors",
+    "name": "今天的三色卡",
+    "status": "网页版；2026-11-27 未提交小红书",
+    "app_id": null,
+    "zip_sha256": "9028ece16ebdabee1eacc646fdb0ca8e3f27383b08447c9cee97fc5b6be92c61"
   }
 ]
